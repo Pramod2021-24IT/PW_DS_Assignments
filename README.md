@@ -6,6 +6,7 @@
   <li> Assignment 3</li>
   <li> Assignment 4</li>
   <li> Assignment 5</li>
+  <li> Assignment 6</li>
 </ol>
 
 
