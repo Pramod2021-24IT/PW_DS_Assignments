@@ -8,6 +8,7 @@
   <li> Assignment 5</li>
   <li> Assignment 6</li>
   <li> Assignment 7</li>
+  <li> Assignment 8</li>
 </ol>
 
 
